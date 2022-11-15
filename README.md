@@ -361,6 +361,10 @@ A.view page 8개 background page 2개.
 
 ```
 
+# 🛠 Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+# Tools
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logocolor=white)
 
 
 
